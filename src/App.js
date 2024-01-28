@@ -13,11 +13,23 @@ function App() {
           <div className="container_links">
             <div className="div_link">
               <img src={require("./assets/icon-linkedin.png")} alt="" />
-              <a href="/#">Linkedin</a>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.linkedin.com/in/fernanda-guimarães-santana"
+              >
+                Linkedin
+              </a>
             </div>
             <div className="div_link">
               <img src={require("./assets/icon_github.png")} alt="" srcset="" />
-              <a href="/#">Github</a>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://github.com/annythingelse"
+              >
+                Github
+              </a>
             </div>
             <div className="div_link">
               <img
@@ -25,11 +37,23 @@ function App() {
                 alt=""
                 srcset=""
               />
-              <a href="/#">Instagram</a>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.instagram.com/nanahguims"
+              >
+                Instagram
+              </a>
             </div>
             <div className="div_link">
               <img src={require("./assets/icon_email.png")} alt="" srcset="" />
-              <a href="/#">Email</a>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="mailto:fernandadev0202@gmail.com"
+              >
+                Email
+              </a>
             </div>
           </div>
         </div>
