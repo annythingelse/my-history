@@ -31,6 +31,10 @@
   background: #a11e56;
 }
 
+.swiper-pagination {
+  position: fixed;
+}
+
 .container_image {
   padding: 20px;
 }
@@ -51,6 +55,10 @@
 @media (min-width: 1024px) {
   .swiper {
     border-radius: 18px;
+  }
+
+  .swiper-pagination {
+    position: absolute;
   }
 
   .container_slide {
