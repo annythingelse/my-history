@@ -204,9 +204,8 @@ export default function Slider() {
               <p>
                 Se chegou até aqui, agradeço pela atenção e por conhecer um
                 pouco sobre mim, ah e vale feedbacks é claro (
-                <a href="https://github.com/annythingelse">Github</a>), foi
-                desenvolvido com atenção mas sempre é válido alguma sugestão,
-                obrigado novamente por chegar até aqui!
+                <a href="https://github.com/annythingelse">Github</a>), obrigado
+                novamente por chegar até aqui!
               </p>
             </div>
           </div>

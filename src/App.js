@@ -47,13 +47,7 @@ function App() {
             </div>
             <div className="div_link">
               <img src={require("./assets/icon_email.png")} alt="" srcset="" />
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="mailto:fernandadev0202@gmail.com"
-              >
-                Email
-              </a>
+              <a href="mailto:fernandadev0202@gmail.com">Email</a>
             </div>
           </div>
         </div>
