@@ -113,9 +113,9 @@ export default function Slider() {
                 desenvolvimento no ramo tecnológico, era uma grande oportunidade
                 de mudar a minha vida, tive que fazer alguns sacrifícios já que
                 o local do curso era um pouco longe e eu ainda tinha que
-                terminar o ensino médio, foi a primeira vez que ouvi a palavra:
-                resiliência, era sobre o que eu precisava ter para conseguir me
-                adaptar à nova rotina, mas fui um pouco longe.
+                terminar o ensino médio, foi a primeira vez que ouvi a palavra
+                "resiliência", era sobre o que eu precisava ter para conseguir
+                me adaptar à nova rotina, mas fui um pouco longe.
               </p>
             </div>
           </div>
@@ -136,7 +136,7 @@ export default function Slider() {
                 Após completar o primeiro semestre do curso de desenvolvimento
                 de sistemas, consegui estagiar na empresa que me concedeu essa
                 bolsa, um desafio ainda maior, trabalhar - ir pro curso - ir
-                para escola, foi de fato complicado, mas apesar disso, pude ter
+                para escola. Foi de fato complicado, mas apesar disso, pude ter
                 uma grande experiência, de pôr em prática aquilo que aprendi e
                 depois de um tempo tive que tomar uma decisão.
               </p>
@@ -158,10 +158,10 @@ export default function Slider() {
               <p>
                 Meu maior desejo era me efetivar, e consegui, mas tive que fazer
                 um sacrifício: trancar o meu curso técnico, já que eu passaria a
-                ter que trabalhar 8 horas por dia e ainda tinha, sim, o ensino
-                médio, mas foi uma ótima decisão, a prática de trabalhar no dia
-                a dia, os desafios e os aprendizados eram constantes, a
-                experiência que eu tanto queria.
+                ter que trabalhar 8 horas por dia e ainda tinha o ensino médio,
+                mas foi uma ótima decisão, a prática de trabalhar no dia a dia,
+                os desafios e os aprendizados eram constantes, a experiência que
+                eu tanto queria.
               </p>
             </div>
           </div>
@@ -203,7 +203,8 @@ export default function Slider() {
               <h3>Obrigada!</h3>
               <p>
                 Se chegou até aqui, agradeço pela atenção e por conhecer um
-                pouco sobre mim, ah e vale feedbacks é claro (github link), foi
+                pouco sobre mim, ah e vale feedbacks é claro (
+                <a href="https://github.com/annythingelse">Github</a>), foi
                 desenvolvido com atenção mas sempre é válido alguma sugestão,
                 obrigado novamente por chegar até aqui!
               </p>

@@ -1,4 +1,5 @@
 .swiper {
+  cursor: grab;
   width: 100%;
   height: 100%;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
@@ -14,6 +15,10 @@
 
 .swiper-slide p {
   margin-top: 10px;
+}
+
+.swiper-slide p > a {
+  color: #554232;
 }
 
 .swiper-slide h3 {

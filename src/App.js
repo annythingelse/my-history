@@ -68,7 +68,7 @@ function App() {
             />
             <p>
               Nome: Fernanda Guimarães <br />
-              Idade: 18 anos <br />
+              Idade: 19 anos <br />
               Jogo Favorito: Stardew Valley
             </p>
           </div>
