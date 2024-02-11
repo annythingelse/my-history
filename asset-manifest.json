@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-story/static/css/main.64b63df8.css",
+    "main.js": "/my-story/static/js/main.e5be7f4c.js",
+    "static/js/787.0e0dbeab.chunk.js": "/my-story/static/js/787.0e0dbeab.chunk.js",
+    "static/media/sakura-bye.gif": "/my-story/static/media/sakura-bye.4b0742291e63a3e7c81e.gif",
+    "static/media/sakura-fight.gif": "/my-story/static/media/sakura-fight.a51425ca4a4b701a9b4e.gif",
+    "static/media/sakura-decisao.gif": "/my-story/static/media/sakura-decisao.d5cd0b87d06ca1ab9780.gif",
+    "static/media/oportunidade.gif": "/my-story/static/media/oportunidade.b8d2500e33577f7e9fb5.gif",
+    "static/media/sakura-facul.gif": "/my-story/static/media/sakura-facul.a1daca70f5b232219273.gif",
+    "static/media/sakura-heart.gif": "/my-story/static/media/sakura-heart.e10675120c82b33a4c78.gif",
+    "static/media/profile.jpeg": "/my-story/static/media/profile.4fbee1b19c3fb3706191.jpeg",
+    "static/media/kero.png": "/my-story/static/media/kero.2aced9370527b159594e.png",
+    "static/media/cat_icon_header.gif": "/my-story/static/media/cat_icon_header.fd37303b71e5f665d3db.gif",
+    "index.html": "/my-story/index.html",
+    "main.64b63df8.css.map": "/my-story/static/css/main.64b63df8.css.map",
+    "main.e5be7f4c.js.map": "/my-story/static/js/main.e5be7f4c.js.map",
+    "787.0e0dbeab.chunk.js.map": "/my-story/static/js/787.0e0dbeab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b63df8.css",
+    "static/js/main.e5be7f4c.js"
+  ]
+}
