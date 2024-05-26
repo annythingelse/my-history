@@ -1,8 +1,8 @@
 {
-  "name": "my-story",
+  "name": "my-history",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://annythingelse.github.io/my-story",
+  "homepage": "https://annythingelse.github.io/my-history",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
